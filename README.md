@@ -28,6 +28,7 @@ This helps us keep a running history of past issues and questions so that others
 The following components make up the Response RMS project.
 
 - [Response Server](#response-server)
+- [Response Web](#response-web)
 
 ### Response Server
 
