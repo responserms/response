@@ -1,6 +1,6 @@
 # Response RMS
 
-Welcome to the Respone RMS project. This repository does not contain any code and is used solely for discussions, project issues, and as a general landing page to your GitHub.
+Welcome to the Respone RMS project. This repository does not contain any code and is used solely for discussions, project issues, and as a general landing page to our GitHub organization.
 
 The Response RMS project is licensed under the [Mozilla Public License v2.0](https://github.com/responserms/response/blob/main/LICENSE).
 
